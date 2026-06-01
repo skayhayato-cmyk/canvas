@@ -1,0 +1,18 @@
+cara install nya 
+
+# 1. Install dependencies dulu
+pkg install build-essential python cairo pango libjpeg-turbo giflib librsvg
+
+# 2. install canvas
+npm install canvas
+
+# 3. install express 
+npm install expres 
+
+# 4. install axios
+npm install axios 
+
+# 5. jalakan yg sudah kamu simpan misalkan 
+smeme.js lalu jalankan 
+
+node smeme.js
