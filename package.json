@@ -1,0 +1,20 @@
+{
+  "name": "nexa-ai-agent",
+  "version": "1.0.0",
+  "description": "Nexa AI - AI Agent with Reasoning Loop & Multi-Tab Google Search",
+  "main": "nexa.js",
+  "scripts": {
+    "start": "node nexa.js",
+    "dev": "nodemon nexa.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "puppeteer": "^21.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "keywords": ["ai-agent", "google-search", "gemini", "puppeteer"],
+  "author": "CodeMaster",
+  "license": "MIT"
+}
